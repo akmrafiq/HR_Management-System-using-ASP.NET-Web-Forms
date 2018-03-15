@@ -1,0 +1,407 @@
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll.config
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.pdb
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.jQuery.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Web.Infrastructure.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Owin.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Providers.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\WebGrease.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.pdb
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.csprojResolveAssemblyReference.cache
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.dll
+D:\Class\M05_XML_ADO_ASP\ASP\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.pdb
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll.config
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.pdb
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.jQuery.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Owin.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Providers.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\WebGrease.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.pdb
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.csprojResolveAssemblyReference.cache
+D:\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.dll
+D:\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.pdb
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll.config
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.pdb
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Owin.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Providers.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\WebGrease.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.pdb
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.dll
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.pdb
+C:\Users\Mannan\Desktop\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.csprojResolveAssemblyReference.cache
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll.config
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.pdb
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.bootstrap.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.jQuery.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.WebForms.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Web.Infrastructure.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Owin.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Providers.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\WebGrease.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.pdb
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.pdb
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.csprojResolveAssemblyReference.cache
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll.config
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.pdb
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Owin.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Providers.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\WebGrease.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.pdb
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.dll
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.pdb
+C:\Users\Md Abdul Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.csprojResolveAssemblyReference.cache
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll.config
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.pdb
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Owin.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Providers.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\WebGrease.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.pdb
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.csprojResolveAssemblyReference.cache
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.dll
+C:\Users\Mannan\Desktop\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.pdb
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll.config
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.pdb
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.bootstrap.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.jQuery.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.WebForms.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Web.Infrastructure.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Owin.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Providers.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\WebGrease.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.pdb
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.xml
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.csprojResolveAssemblyReference.cache
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.dll
+F:\G_Drive_Project\ESAD_33\M5_ASP.Net\TraineeProject\Mannan\Project_R33\ASPprojectFinal\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.pdb
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll.config
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\ASP_ProjectFina.pdb
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.bootstrap.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\AspNet.ScriptManager.jQuery.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.ScriptManager.WebForms.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Web.Infrastructure.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Owin.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Providers.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\WebGrease.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\System.Web.Optimization.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Antlr3.Runtime.pdb
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Newtonsoft.Json.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\EntityFramework.SqlServer.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Google.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.dll
+D:\C#.NET\Projects\HRM_ASP_PROJECT\ASP_ProjectFina\ASP_ProjectFina\obj\Debug\ASP_ProjectFina.pdb
